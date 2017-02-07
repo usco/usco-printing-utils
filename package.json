@@ -1,5 +1,5 @@
 {
-  "name": "usco-printing-utils",
+  "name": "@usco/printing-utils",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
